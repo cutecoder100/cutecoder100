@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Sonia Ojha </title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+    <!-- Favicons -->
+    <link href="img/favicon.png" rel="icon">
+    <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+    <!-- Bootstrap CSS File -->
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Libraries CSS Files -->
+    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <!-- Main Stylesheet File -->
+    <link href="css/style.css" rel="stylesheet">
+    <!-- =======================================================
+    Theme Name: DevFolio    Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/    Author: BootstrapMade.com    License: https://bootstrapmade.com/license/  ======================================================= -->
+  </head>
+  <body id="page-top"> <!--/ Nav Star /-->
+    <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
+      <div class="container"> <a class="navbar-brand js-scroll" href="#page-top">Sonia
+          Ojha</a> <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"
+          data-target="#navbarDefault"
+          aria-controls="navbarDefault"
+          aria-expanded="false"
+          aria-label="Toggle navigation">
+          <span></span> <span></span> <span></span> </button>
+        <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
+          <ul class="navbar-nav">
+            <li class="nav-item"> <a class="nav-link js-scroll active" href="#home">Home</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link js-scroll" href="#about">About
+                Me</a> </li>
+            <li class="nav-item"> <a class="nav-link js-scroll" href="#service">Services</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link js-scroll" href="#work">Work</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link js-scroll" href="#contact">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!--/ Nav End /-->
+    <!--/ Intro Skew Star /-->
+    <div id="home" class="intro route bg-image" style="background-image: url(img/intro-bg.jpg)">
+      <div class="overlay-itro"></div>
+      <div class="intro-content display-table">
+        <div class="table-cell">
+          <div class="container">
+            <!--<p class="display-6 color-d">Hello, world!</p>-->
+            <h1 class="intro-title mb-4">I am Sonia Ojha</h1>
+            <p class="intro-subtitle"><span class="text-slider-items">Co-Founder
+                Royalcoder,Journalist,Web Developer,Web Designer,Frontend
+                Developer, Digital Markting Analysis</span><strong class="text-slider"></strong></p>
+            <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/ Intro Skew End /-->
+    <section id="about" class="about-mf sect-pt4 route">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="box-shadow-full">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="row">
+                    <div class="col-sm-6 col-md-5">
+                      <div class="about-img"> <img src="img/testimonial-2.jpg"
+                          class="img-fluid rounded b-shadow-a"
+                          alt="">
+                      </div>
+                    </div>
+                    <div class="col-sm-6 col-md-7">
+                      <div class="about-info">
+                        <p><span class="title-s">Name: </span> <span>Sonia
+                            Ojha</span></p>
+                        <p><span class="title-s">Profile: </span> <span>Full
+                            Stack Designer</span></p>
+                        <p><span class="title-s">Email: </span> <span>sonia41087@gmail.com</span></p>
+                        <p><span class="title-s">Phone: </span> <span>978-2243-089
+                            </span></p> </div>
+                    </div>
+                  </div>
+                  <div class="skill-mf">
+                    <p class="title-s">Skill</p>
+                    <span>FRONT-END DEVELOPER</span> <span class="pull-right">85%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 85%;"
+                        aria-valuenow="85"
+                        aria-valuemin="0"
+                        aria-valuemax="100"></div>
+                    </div>
+                    <span>BACK-END DEVELOPER</span> <span class="pull-right">85%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 85%"
+                        aria-valuenow="75"
+                        aria-valuemin="0"
+                        aria-valuemax="100"></div>
+                    </div>
+                    <span>WORDPRESS</span> <span class="pull-right">90%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 90%"
+                        aria-valuenow="90"
+                        aria-valuemin="0"
+                        aria-valuemax="100"></div>
+                    </div>
+                    <span>DIGITAL ANALYTICE</span> <span class="pull-right">90%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 90%"
+                        aria-valuenow="90"
+                        aria-valuemin="0"
+                        aria-valuemax="100"></div>
+                    </div>
+                    <span>DIGITAL MARKEITING</span> <span class="pull-right">95%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 90%"
+                        aria-valuenow="90"
+                        aria-valuemin="0"
+                        aria-valuemax="100"></div>
+                    </div>
+                    <span>SOFTWARE TESTING</span> <span class="pull-right">92%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 90%"
+                        aria-valuenow="90"
+                        aria-valuemin="0"
+                        aria-valuemax="100"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="about-me pt-4 pt-md-0">
+                    <div class="title-box-2">
+                      <h2 class="title-left"> About Me </h2>
+                    </div>
+                    <p class="lead" style="color:black;"><b> Hello! I’m Sonia.I
+                        am Co-Founder of royalcoder </b>.<br>
+                      I’ve Been Building Websites for 5 Years I will design
+                      Wodpress Website as per your requirement. </p>
+                    <p></p>
+                    <h6 class="title-left"> My Qualification </h6>
+                    <br>
+                    <b>VARDHMAN MAHAVEER OPEN UNIVERSITY,KOTA</b><br>
+                    Bachelor's degree, Communication Journalism &amp; Related
+                    Programs, "A" (2015-2016)<br>
+                    <br>
+                    <b>NCVT JODHPUR</b><br>
+                    Diploma Electrical Electronics&amp; Communications
+                    Engineering, "A" (2013-2015)<br>
+                    <br>
+                    <b>MAHARAJA GANGA SINGH UNIVERSITY, BIKANER</b><br>
+                    Master's degree, Political Science and Government, "A"
+                    (2011-2013)<br>
+                    <br>
+                    <b>DOEACC</b><br>
+                    A Level From Doeacc, Computer and Information Science and
+                    Support Services, "B" (2007-2010) </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--/ Section Services Star /-->
+    <section id="service" class="services-mf route">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="title-box text-center">
+              <h3 class="title-a"> Services </h3>
+              <p class="subtitle-a"> Lorem ipsum, dolor sit amet consectetur
+                adipisicing elit. </p>
+              <div class="line-mf"></div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico"> <span class="ico-circle"><i class="ion-monitor"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">Web Design</h2>
+                <p class="s-description text-center"><br> We can design
+                  professional,dynamic and responsive websites for your
+                  organisation in HTML and Wordpress with web hosting. </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico"> <span class="ico-circle"><i class="ion-code-working"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">Web Development</h2>
+                <p class="s-description text-center"> We can develop fully
+                  customized web applications for your organizations. Our Many
+                  Web Applications is running online for various organisations.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico"> <span class="ico-circle"><i class="ion-monitor"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">Responsive Design</h2>
+                <p class="s-description text-center"><br> From time to time, we
+                  update our knowledge steams to provide all width friendly
+                  websites to our customers. </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico"> <span class="ico-circle"><i class="ion-android-phone-portrait"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">Instructor</h2>
+                <p class="s-description text-center"> Our mission is to provide
+                  quality training to fill the existing skill shortages in
+                  Industry, while addressing issues such as the quality, reach
+                  and relevance of our education system &amp; economy.Our
+                  Objective is to be the No.1 Education Service Provider
+                  wherever we are. </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico"> <span class="ico-circle"><i class="ion-camera"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">Journalist</h2>
+                <p class="s-description text-center"> I have been in journalism since last 6 years. I have served as journalist in Rajasthan Patrika 
+                  &#38; as Sub Editor in Anupgarh Jyoti for many years, during this time I have completed many of my goals and have done many 
+                  commendable works for my city. </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico"> <span class="ico-circle"><i class="ion-stats-bars"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">Digital Marketing</h2>
+                <p class="s-description text-center"> Digital marketing is now
+                  becoming a challenge with the increase in competition and
+                  changing market trends. Our experts are backed with experience
+                  are able to handle the upcoming challenges and trends that you
+                  may be unawar </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--/ Section Services End /-->
+    <div class="section-counter paralax-mf bg-image" style="background-image: url(img/counters-bg.jpg)">
+      <div class="overlay-mf"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-3 col-lg-3">
+            <div class="counter-box">
+              <div class="counter-ico"> <span class="ico-circle"><i class="ion-checkmark-round"></i></span>
+              </div>
+              <div class="counter-num">
+                <p class="counter">450</p>
+                <span class="counter-text">WORKS COMPLETED</span> </div>
+            </div>
+          </div>
+          <div class="col-sm-3 col-lg-3">
+            <div class="counter-box pt-4 pt-md-0">
+              <div class="counter-ico"> <span class="ico-circle"><i class="ion-ios-calendar-outline"></i></span>
+              </div>
+              <div class="counter-num">
+                <p class="counter">15</p>
+                <span class="counter-text">YEARS OF EXPERIENCE</span> </div>
+            </div>
+          </div>
+          <div class="col-sm-3 col-lg-3">
+            <div class="counter-box pt-4 pt-md-0">
+              <div class="counter-ico"> <span class="ico-circle"><i class="ion-ios-people"></i></span>
+              </div>
+              <div class="counter-num">
+                <p class="counter">550</p>
+                <span class="counter-text">TOTAL CLIENTS</span> </div>
+            </div>
+          </div>
+          <div class="col-sm-3 col-lg-3">
+            <div class="counter-box pt-4 pt-md-0">
+              <div class="counter-ico"> <span class="ico-circle"><i class="ion-ribbon-a"></i></span>
+              </div>
+              <div class="counter-num">
+                <p class="counter">36</p>
+                <span class="counter-text">AWARD WON</span> </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/ Section Portfolio Star /-->
+    <section id="work" class="portfolio-mf sect-pt4 route">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="title-box text-center">
+              <h3 class="title-a"> Portfolio </h3>
+              <p class="subtitle-a"> Choose it. </p>
+              <div class="line-mf"></div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="work-box"> <a href="img/work-1.jpg" data-lightbox="gallery-mf">
+                <div class="work-img"> <img src="img/work-1.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">Rakesh saree center</h2>
+                      <div class="w-more"> <span class="w-ctegory">E-store
+                          website</span> <span class="w-date"></span> </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like"> <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a> </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box"> <a href="img/work-2.jpg" data-lightbox="gallery-mf">
+                <div class="work-img"> <img src="img/work-2.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">Fitness Plus</h2>
+                      <div class="w-more"> <span class="w-ctegory">Fitness
+                          Website</span> <span class="w-date"></span> </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like"> <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a> </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box"> <a href="img/work-3.jpg" data-lightbox="gallery-mf">
+                <div class="work-img"> <img src="img/work-3.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">Pankaj Computers</h2>
+                      <div class="w-more"> <span class="w-ctegory">Education
+                          Website</span> <span class="w-date"></span> </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like"> <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a> </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box"> <a href="img/work-4.jpg" data-lightbox="gallery-mf">
+                <div class="work-img"> <img src="img/work-4.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">Royal coder</h2>
+                      <div class="w-more"> <span class="w-ctegory">Html Css</span>
+                        <span class="w-date"></span> </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like"> <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a> </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box"> <a href="img/work-5.jpg" data-lightbox="gallery-mf">
+                <div class="work-img"> <img src="img/work-5.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">Clean Home</h2>
+                      <div class="w-more"> <span class="w-ctegory">Css Html/PhP
+                          &amp; My Sql Website</span> <span class="w-date"></span>
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like"> <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a> </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box"> <a href="img/work-6.jpg" data-lightbox="gallery-mf">
+                <div class="work-img"> <img src="img/work-6.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">Serve Route Web App</h2>
+                      <div class="w-more"> <span class="w-ctegory">Php My Sql
+                          Web</span> <span class="w-date"></span> </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like"> <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a> </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--/ Section Portfolio End /-->
+    <!--/ Section Testimonials Star /-->
+    <div class="testimonials paralax-mf bg-image" style="background-image: url(img/overlay-bg.jpg)">
+      <div class="overlay-mf"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div id="testimonial-mf" class="owl-carousel owl-theme">
+              <div class="testimonial-box">
+                <div class="author-test"> <img src="img/testimonial-3.jpg" alt=""
+                    class="rounded-circle b-shadow-a">
+                  <span class="author">Kartik Kayal</span> </div>
+                <div class="content-test">
+                  <p class="description lead">Hi, My name is kartik ,  I think its the best instructor for learning web
+                    designing. So if you want to join web designing course, Sonia Ojha is the Best.<br>
+                       – Kartik Kayal </p>
+                  <span class="comit"><i class="fa fa-quote-right"></i></span> </div>
+              </div>
+              <div class="testimonial-box">
+                <div class="author-test"> <img src="img/testimonial-4.jpg" alt=""
+                    class="rounded-circle b-shadow-a">
+                  <span class="author">Bhavi Gilhotra</span> </div>
+                <div class="content-test">
+                  <p class="description lead">
+                     The Web Design training was comprehensive. One of the best institutes I’ve studied in.
+                    Good infrastructure, trainers and management is also friendly and helpful…<br>
+                     –Bhavi Gilhotra </p>
+                  <span class="comit"><i class="fa fa-quote-right"></i></span> </div>
+              </div>
+              
+              <div class="testimonial-box">
+                <div class="author-test"> <img src="img/testimonial-5.jpg" alt=""
+                    class="rounded-circle b-shadow-a">
+                  <span class="author">Sourav Chugh</span> </div>
+                <div class="content-test">
+                  <p class="description lead">It was a nice experience altogether as i learnt practically a lot than compared to other
+                    institutes, the faculty are very well trained here with which we can get a good command on the subject.
+                      Wish the institute my best wishes for their future endeavours.<br>
+                     – Sourav Chugh </p>
+                  <span class="comit"><i class="fa fa-quote-right"></i></span> </div>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/ Section Momments Star /-->
+    <section id="work" class="portfolio-mf sect-pt4 route">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="title-box text-center">
+              <h3 class="title-a">Memorable Moments </h3>
+              <p class="subtitle-a"> Capturing the moments that captivate your
+                heart.</p>
+              <div class="line-mf"></div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="work-box"> <a href="img/work-7.jpg" data-lightbox="gallery-mf">
+                <div class="work-img"> <img src="img/work-7.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">Modal School </h2>
+                      <div class="w-more"> <span class="w-ctegory">2016 </span>
+                        <span class="w-date"></span> </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like"> <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a> </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box"> <a href="img/work-8.jpg" data-lightbox="gallery-mf">
+                <div class="work-img"> <img src="img/work-8.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">Blood Donation Camp</h2>
+                      <div class="w-more"> <span class="w-ctegory">2017 </span>
+                        <span class="w-date"></span> </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like"> <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a> </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box"> <a href="img/work-9.jpg" data-lightbox="gallery-mf">
+                <div class="work-img"> <img src="img/work-9.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">Blood Donation Camp</h2>
+                      <div class="w-more"> <span class="w-ctegory">2017 </span>
+                        <span class="w-date"></span> </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like"> <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a> </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box"> <a href="img/work-10.jpg" data-lightbox="gallery-mf">
+                <div class="work-img"> <img src="img/work-10.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">Blood Donation Camp</h2>
+                      <div class="w-more"> <span class="w-ctegory">2020</span>
+                        <span class="w-date"></span> </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like"> <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a> </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box"> <a href="img/work-11.jpg" data-lightbox="gallery-mf">
+                <div class="work-img"> <img src="img/work-11.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">M.M.D Bedi College</h2>
+                      <div class="w-more"> <span class="w-ctegory">2018</span>
+                        <span class="w-date"></span> </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like"> <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a> </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box"> <a href="img/work-12.jpg" data-lightbox="gallery-mf">
+                <div class="work-img"> <img src="img/work-12.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">Blood Donation Camp</h2>
+                      <div class="w-more"> <span class="w-ctegory">2020</span>
+                        <span class="w-date"></span> </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like"> <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a> </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--/ Section 2 momments End /-->
+    <!--/ Section Contact-Footer Star /-->
+    <section class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(img/overlay-bg.jpg)">
+      <div class="overlay-mf"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="contact-mf">
+              <div id="contact" class="box-shadow-full">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="title-box-2">
+                      <h5 class="title-left"> Send Message Us </h5>
+                    </div>
+                    <div>
+                      <form action="" method="post" role="form" class="contactForm">
+                        <div id="sendmessage">Your message has been sent. Thank
+                          you!</div>
+                        <div id="errormessage"></div>
+                        <div class="row">
+                          <div class="col-md-12 mb-3">
+                            <div class="form-group"> <input name="name" class="form-control"
+                                id="name"
+                                placeholder="Your Name"
+                                data-rule="minlen:4"
+                                data-msg="Please enter at least 4 chars"
+                                type="text">
+                              <div class="validation"></div>
+                            </div>
+                          </div>
+                          <div class="col-md-12 mb-3">
+                            <div class="form-group"> <input class="form-control"
+                                name="email"
+                                id="email"
+                                placeholder="Your Email"
+                                data-rule="email"
+                                data-msg="Please enter a valid email"
+                                type="email">
+                              <div class="validation"></div>
+                            </div>
+                          </div>
+                          <div class="col-md-12 mb-3">
+                            <div class="form-group"> <input class="form-control"
+                                name="subject"
+                                id="subject"
+                                placeholder="Subject"
+                                data-rule="minlen:4"
+                                data-msg="Please enter at least 8 chars of subject"
+                                type="text">
+                              <div class="validation"></div>
+                            </div>
+                          </div>
+                          <div class="col-md-12 mb-3">
+                            <div class="form-group"> <textarea class="form-control"
+name="message"
+rows="5"
+data-rule="required"
+data-msg="Please write something for us"
+placeholder="Message"></textarea>
+                              <div class="validation"></div>
+                            </div>
+                          </div>
+                          <div class="col-md-12"> <button type="submit" class="button button-a button-big button-rouded">Send
+                              Message</button> </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="title-box-2 pt-4 pt-md-0">
+                      <h5 class="title-left"> Get in Touch </h5>
+                    </div>
+                    <div class="more-info">
+                      <p class="lead"> </p>
+                      <ul class="list-ico">
+                        <li><span class="ion-ios-location"></span> 22A STREET
+                          WARD NO8, ANUPGHAR<br>
+                          SHRI GANGANAGAR, RAJSTHAN INDIA</li>
+                        <li><span class="ion-ios-telephone"></span> 978-2243-089
+                        </li>
+                        <li><span class="ion-email"></span> sonia41087@gmail.com</li>
+                      </ul>
+                    </div>
+                    <div class="socials">
+                      <ul>
+                        <li><a href="https://www.facebook.com/sonia.ojha.9"><span
+                              class="ico-circle"><i
+                                class="ion-social-facebook"></i></span></a><br>
+                        </li>
+                        <li><a href=""><span class="ico-circle"><i class="ion-social-instagram"></i></span></a><br>
+                        </li>
+                        <li><a href=""><span class="ico-circle"><i class="ion-social-twitter"></i></span></a><br>
+                        </li>
+                        <li><a href="https://www.linkedin.com/in/sonia-ojha-2a92321a9/"><span
+                              class="ico-circle"><i
+                                class="ion-social-linkedin"></i></span></a><br>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer>
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="copyright-box">
+                <p class="copyright">© Copyright <strong>RoyalCoder.in</strong>.
+                  All Rights Reserved</p>
+                <div class="credits">
+                  <!--
+                  All the links in the footer should remain intact.                  You can delete the links only if you purchased the pro version.                  Licensing information: https://bootstrapmade.com/license/                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio                -->
+                  Designed by <a href="http://www.royalcoder.in/">Dimple Kanwar
+                    Rathore</a> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </section>
+    <!--/ Section Contact-footer End /-->
+    <div id="preloader"></div>
+    <!-- JavaScript Libraries -->
+    <script src="lib/jquery/jquery.min.js"></script>
+    <script src="lib/jquery/jquery-migrate.min.js"></script>
+    <script src="lib/popper/popper.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/counterup/jquery.waypoints.min.js"></script>
+    <script src="lib/counterup/jquery.counterup.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <script src="lib/typed/typed.min.js"></script>
+    <!-- Contact Form JavaScript File -->
+    <script src="contactform/contactform.js"></script>
+    <!-- Template Main Javascript File -->
+    <script src="js/main.js"></script>
+  </body>
+</html>
